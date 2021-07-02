@@ -24,3 +24,4 @@ def random_rectangle(width,height,fill_color):
 #random_rectangle(400,400,'magenta')
 #random_rectangle(400,400,'cyan')
 random_rectangle(400,400,c[1])
+input() #to hold on with the rectangle when running with Visual Studio Code
