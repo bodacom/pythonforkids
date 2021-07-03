@@ -6,5 +6,45 @@
 * виконується першим
 / виконується першим
 
+Оператори умов:
+==
+!=
+>
+<
+>=
+<=
+
 Операція - застосовує Оператори
 
+список = [1,2,3,4,5]
+список = ['a', 'b', 'c', 'd']
+список.append('e')
+del список[4]
+
+courtage = (1,2,3,4,5)
+
+dictionary = {'a': 'ght', 'b': 45}
+
+if a > b:
+    print(a)
+
+if a < b:
+    print(a)
+else:
+    print(b)
+if condition:
+    do
+elif condition2:
+    do2
+elif condition3:
+    do3
+else:
+    do4
+
+for x in range(0,5):
+    print(x)
+
+
+dir() gives a list of in scope variables
+globals() gives a dictionary of global variables
+locals() gives a dictionary of local variables
